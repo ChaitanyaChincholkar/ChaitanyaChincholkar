@@ -7,7 +7,7 @@
 
 🎓 Computer Science student passionate about Software Development and Algorithms
 
-💻 Interested in Backend Development, System Design, and Data Structures
+💻 Interested in Frontend & Backend Development, System Design, and Data Structures
 
 🚀 Building scalable applications and solving complex problems using code
 
